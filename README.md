@@ -8,9 +8,9 @@ En aquest repositori estàn tant el format PDF com el Notebook (.ipynb) dels exe
  
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)   
 
-[![Linkedin: JesusSantana](https://img.shields.io/badge/-FranciscodelCampo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscodelcampo7/)](https://www.linkedin.com/in/franciscodelcampo7/)  
+[![Linkedin: Fdelcampo](https://img.shields.io/badge/-FranciscodelCampo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscodelcampo7/)](https://www.linkedin.com/in/franciscodelcampo7/)  
 
-[![GitHub JesusSantana](https://img.shields.io/github/followers/jesussantana?label=follow&style=social)](https://github.com/jesussantana)
+[![GitHub Fdelcampo](https://img.shields.io/github/followers/Pacs7?label=follow&style=social)](https://github.com/Pacs7)
 
 ### Description
 
