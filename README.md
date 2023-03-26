@@ -1,8 +1,5 @@
-# estructures_Dataframe
-En aquest repositori estàn tant el format PDF com el Notebook (.ipynb) dels exercicis corresponents als diferents Sprints en folders, així com els dataset i imatges que es demanen.
-
 # [IT Academy - Data Science with Python](https://www.barcelonactiva.cat/es/itacademy)
-## [S6 T01](https://github.com/Pacs7/estructures_Dataframe/)
+## [estructures_Dataframe](https://github.com/Pacs7/estructures_Dataframe/)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
  
@@ -14,7 +11,7 @@ En aquest repositori estàn tant el format PDF com el Notebook (.ipynb) dels exe
 
 ### Description
 
-
+En aquest repositori estàn tant el format PDF com el Notebook (.ipynb) dels exercicis corresponents als diferents Sprints en folders, així com els dataset i imatges que es demanen.
 
 ### Level 1
 
