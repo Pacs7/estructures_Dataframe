@@ -1,5 +1,5 @@
 # [IT Academy - Data Science with Python](https://www.barcelonactiva.cat/es/itacademy)
-## [Sprint 6](https://github.com/Pacs7/estructures_Dataframe/Sprint6)
+## [Sprint 6](https://github.com/Pacs7/estructures_Dataframe/tree/main/Sprint6)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
  
