@@ -26,3 +26,7 @@ En aquest repositori estàn tant el format PDF com el Notebook (.ipynb) dels exe
 ### [Sprint 8. Algoritmes d’aprenentatge NO supervisat: Agrupació](https://github.com/Pacs7/estructures_Dataframe/tree/main/Sprint8)
 
 ### [Sprint 9. Anàlisi de sentiment i textos](https://github.com/Pacs7/estructures_Dataframe/tree/main/Sprint9)
+
+### [Sprint 10. Web scraping i automatització](https://github.com/Pacs7/estructures_Dataframe/tree/main/Sprint10)
+
+### [Sprint 11. Entrega projecte final](https://github.com/Pacs7/estructures_Dataframe/tree/main/Sprint11)
