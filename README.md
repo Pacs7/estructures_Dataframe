@@ -22,3 +22,7 @@ En aquest repositori estàn tant el format PDF com el Notebook (.ipynb) dels exe
 ### [Sprint 6. Algoritmes d’aprenentatge supervisat: Regressió](https://github.com/Pacs7/estructures_Dataframe/tree/main/Sprint6)
 
 ### [Sprint 7. Algoritmes d’aprenentatge supervisat: Classificació](https://github.com/Pacs7/estructures_Dataframe/tree/main/Sprint7)
+
+### [Sprint 8. Algoritmes d’aprenentatge NO supervisat: Agrupació](https://github.com/Pacs7/estructures_Dataframe/tree/main/Sprint8)
+
+### [Sprint 9. Anàlisi de sentiment i textos](https://github.com/Pacs7/estructures_Dataframe/tree/main/Sprint9)
