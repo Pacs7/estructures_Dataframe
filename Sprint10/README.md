@@ -11,20 +11,26 @@
 [![GitHub Fdelcampo](https://img.shields.io/github/followers/Pacs7?label=follow&style=social)](https://github.com/Pacs7)
 
 # Descripció
-En aquest repositori estàn tant el format PDF com el Notebook (.ipynb) dels exercicis corresponents a la tasca M10 T01 així com el dataset usat.
+En aquest repositori estàn tant el format PDF com el Notebook (.ipynb) dels exercicis corresponents a la tasca M10 T01 així com el dataset creat.
 
 
 ### Level 1
 
 - Exercici 1:
-  - Agafa un text en anglès que vulguis, i calcula'n la freqüència de les paraules.
+  - Realitza web scraping de dues de les tres pàgines web proposades utilitzant BeautifulSoup primer i Selenium després. 
+
+   - http://quotes.toscrape.com
+
+   - https://www.bolsamadrid.es
+
+   - www.wikipedia.es (fes alguna cerca primer i escrapeja algun contingut)
   
 ### Level 2
 
 - Exercise 2: 
-  - Treu les stopwords i realitza stemming al teu conjunt de dades.
-
+  - Documenta en un Word el teu conjunt de dades generat amb la informació que tenen els diferents arxius de Kaggle.
+  
 ### Level 3
 
 - Exercise 3: 
-  - Realitza sentiment analysis al teu conjunt de dades.
+  - Tria una pàgina web que tu vulguis i realitza web scraping mitjançant la llibreria Selenium primer i Scrapy després. 
